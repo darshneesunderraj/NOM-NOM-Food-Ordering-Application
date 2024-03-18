@@ -9,9 +9,3 @@ Shopping Cart Management: Add, remove, and clear items from the cart.
 Real-time Updates: Dynamically calculates the total cost of items in the shopping cart.
 Order Placement: Users can proceed to checkout by entering name, address, phone number, and payment method.
 
-System Design
-
-
-
-![image](https://github.com/darshneesunderraj/NOM-NOM-Food-Ordering-Application/assets/125433824/1ffe0c7b-6321-4c82-bb22-aeb9a863c712)
-
